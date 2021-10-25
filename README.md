@@ -1,3 +1,3 @@
 # KrisHod.github.io
 
-https://KrisHod.github.io
+https://krishod.github.io/
